@@ -1,0 +1,47 @@
+table, th, td {
+    /* border: 2px solid hotpink; */
+    border-collapse: collapse;
+}
+.Table thead{
+    background-color: rgb(14, 108, 14);
+    color: white;
+    font-size: 20px;
+}
+.Table {
+    margin: auto;
+    width: 100%;
+}
+th,td {
+    padding: 10px 30px;
+    text-align: center;
+}
+button {
+    margin: 10px 0px 10px 250px;
+}
+ button {
+    display:inline;
+    padding: 6px 20px;
+    cursor: pointer;
+    margin: 4px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(35, 31, 143);
+    color: white;
+    font-weight: 600;
+    font-size: large;
+}
+ button:hover {
+    background-color:rgb(142, 40, 176);
+}
+ #search{
+    padding: 6px;
+    border-radius: 5px;
+    background-color:white;
+}
+
+
+.active{
+    background-image: linear-gradient(to right, rgb(31, 31, 176), rgb(216, 41, 41));
+    text-transform:uppercase ;
+    color: white;
+}

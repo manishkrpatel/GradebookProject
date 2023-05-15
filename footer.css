@@ -1,0 +1,6 @@
+.footer{
+    color:white;
+    align-items: center;
+    background-image: linear-gradient(to right, rgb(217, 38, 38), rgb(32, 32, 203));
+    height: 60px;
+}

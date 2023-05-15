@@ -1,0 +1,13 @@
+.popup2 {
+    position: fixed;
+    font-weight: 10%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    background-image: linear-gradient(to right, rgb(200, 63, 63) , rgb(30, 30, 156));
+    color: white;
+}
+.popup2 img{
+    padding-top: 5px;
+    border-radius: 50%;
+}

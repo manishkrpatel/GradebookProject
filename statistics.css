@@ -1,0 +1,21 @@
+.stats{
+    display: flex;
+}
+.statisticsTable{
+    /* border: 2px solid black; */
+    margin-left: 50px;
+}
+.statisticsTable thead{
+  background-color: rgb(10, 139, 10);
+  color: white;
+  font-size: 20px;
+}
+.barchat{
+    margin-left: 30%;
+    justify-content: space-between;
+    background-color: rgb(169, 185, 185);
+}
+.studentchart{
+    background-color: rgb(168, 183, 183);
+    margin-left: 10%;
+}
